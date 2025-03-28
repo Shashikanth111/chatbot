@@ -1,1 +1,2 @@
+pip install streamlit google-generativeai mysql-connector-python python-dotenv
 
